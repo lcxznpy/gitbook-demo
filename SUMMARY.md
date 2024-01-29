@@ -17,3 +17,4 @@
 ## 产品文档
 
 * [Page 5](chan-pin-wen-dang/page-4.md)
+* [可观测性](ce-shi-wen-dang/1.md)
